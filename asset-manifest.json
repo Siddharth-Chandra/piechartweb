@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b3f1394.css",
-    "main.js": "/static/js/main.043619ec.js",
-    "static/media/heroImage.JPG": "/static/media/heroImage.bb923763c2ec82710c5e.JPG",
-    "static/media/d.JPG": "/static/media/d.5146a8547172dbf39bc3.JPG",
-    "static/media/b.JPG": "/static/media/b.5b6b46717f900566cae7.JPG",
-    "static/media/c.JPG": "/static/media/c.adbbff0dde1a7d43582f.JPG",
-    "static/media/f.JPG": "/static/media/f.81a945355e45a94538b4.JPG",
-    "static/media/e.JPG": "/static/media/e.9ba95448cf24a7b28349.JPG",
-    "static/media/logo.JPG": "/static/media/logo.b3c60dd68df1e07036d3.JPG",
-    "static/media/a.JPG": "/static/media/a.7e028eefe24f7966bb8f.JPG",
-    "index.html": "/index.html",
-    "main.2b3f1394.css.map": "/static/css/main.2b3f1394.css.map",
-    "main.043619ec.js.map": "/static/js/main.043619ec.js.map"
+    "main.css": "/piechartweb/static/css/main.7d8c574e.css",
+    "main.js": "/piechartweb/static/js/main.2e93ac27.js",
+    "static/media/heroImage.JPG": "/piechartweb/static/media/heroImage.bb923763c2ec82710c5e.JPG",
+    "static/media/d.JPG": "/piechartweb/static/media/d.5146a8547172dbf39bc3.JPG",
+    "static/media/b.JPG": "/piechartweb/static/media/b.5b6b46717f900566cae7.JPG",
+    "static/media/c.JPG": "/piechartweb/static/media/c.adbbff0dde1a7d43582f.JPG",
+    "static/media/f.JPG": "/piechartweb/static/media/f.81a945355e45a94538b4.JPG",
+    "static/media/e.JPG": "/piechartweb/static/media/e.9ba95448cf24a7b28349.JPG",
+    "static/media/logo.JPG": "/piechartweb/static/media/logo.b3c60dd68df1e07036d3.JPG",
+    "static/media/a.JPG": "/piechartweb/static/media/a.7e028eefe24f7966bb8f.JPG",
+    "index.html": "/piechartweb/index.html",
+    "main.7d8c574e.css.map": "/piechartweb/static/css/main.7d8c574e.css.map",
+    "main.2e93ac27.js.map": "/piechartweb/static/js/main.2e93ac27.js.map"
   },
   "entrypoints": [
-    "static/css/main.2b3f1394.css",
-    "static/js/main.043619ec.js"
+    "static/css/main.7d8c574e.css",
+    "static/js/main.2e93ac27.js"
   ]
 }
